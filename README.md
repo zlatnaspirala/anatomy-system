@@ -3,7 +3,7 @@
 
 Used in Ultimate Anatomy Unreal project.
 
-![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/developing.png){:height="50%" width="50%"}
+![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/developing.png)
 
 <b>
 The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan.
@@ -40,9 +40,8 @@ LICENSE
 
 Screenshots from UA 0.2 :
 
-![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy-2.png){:height="50%" width="50%"}
-
-![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy-3d-interactive.png){:height="50%" width="50%"}
-![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy.png){:height="50%" width="50%"}
+![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy-2.png)
+![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy-3d-interactive.png)
+![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy.png)
 
 If you are interest for Ultimate antomy you can contact me at zlatnaspirala@gmail.com
