@@ -3,7 +3,7 @@
 
 Used in Ultimate Anatomy Unreal project.
 
-![Ultimate Anatomy](https://photos.google.com/photo/AF1QipP2SXnvFhNLnMQxVAEASe01p84BBTqQ5rFWUP-X)
+![Ultimate Anatomy](https://photos.app.goo.gl/yVxXGoja1nABwuc17)
 
 <b>
 The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan.
