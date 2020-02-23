@@ -3,7 +3,7 @@
 
 Used in Ultimate Anatomy Unreal project.
 
-![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/developing.png)
+![Ultimate Anatomy](https://photos.google.com/photo/AF1QipP2SXnvFhNLnMQxVAEASe01p84BBTqQ5rFWUP-X)
 
 <b>
 The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan.
@@ -26,15 +26,17 @@ Nikola Lukic maximumroulette.com
 LICENSE
 ├── systems/
 |   ├── optimisation-157/
-|   |   ├── skeletal/
-|   |   ├── urinary/
-|   |   ├── respiratory/
-|   |   ├── /
-|   |   ├── /
-|   |   ├── /
-|   |   ├── /
-|   |   ├── /
-|   |   ├── /
+|   |   ├── Skelvetal/
+|   |   ├── Urinary/
+|   |   ├── Respiratory/
+|   |   ├── Cardiovascular/
+|   |   ├── Endocrine/
+|   |   ├── Immune - Lymphatic/
+|   |   ├── Digestive/
+|   |   ├── Muscular/
+|   |   ├── Nervous/
+|   |   ├── Reproductive/
+|   |   ├── integumentary_system/
 
 </pre>
 
