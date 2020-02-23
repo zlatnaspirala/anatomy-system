@@ -46,4 +46,4 @@ Screenshots from UA 0.2 :
 ![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy-3d-interactive.png)
 ![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/12.png)
 
-If you are interest for Ultimate antomy you can contact me at zlatnaspirala@gmail.com
+If you are interested for Ultimate anatomy you can contact me at zlatnaspirala@gmail.com
