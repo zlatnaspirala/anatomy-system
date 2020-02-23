@@ -1,10 +1,10 @@
-# Project Anatomy system
-## 3D Anatomy system
+# Project Anatomy system #
+## 3D Anatomy system ##
 
-<pre>
+<b>
 The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan.
 If you use data from this database, please be sure attribute this database as follows:
-</pre>
+</b>
 
 ```
 "BodyParts3D, © The Database Center for Life
