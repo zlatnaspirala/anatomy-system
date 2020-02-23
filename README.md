@@ -40,7 +40,7 @@ LICENSE
 
 Screenshots from UA 0.2 :
 
-![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy-2.png | width=350)
+![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy-2.png) {:height="50%" width="50%"}
 ![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy-3d-interactive.png | width=350)
 ![Ultimate Anatomy](https://github.com/zlatnaspirala/anatomy-system/blob/master/screenshots/ultimate-anatomy.png | width=350)
 
