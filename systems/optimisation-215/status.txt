@@ -1,0 +1,32 @@
+
+
+ trenutno ukupno : 258 mb - 236 mb
+
+
+preimenovani : 
+
+anatomical set_4     === set of anterior intercostal veins
+anatomical set_1     === posterior intercostal arteries
+anatomical set_2     === posterior intercostal arteries left
+anatomical set_2     === set of anterior intercostal veins left
+//----------------
+
+
+
+redukovati od pocetka : 
+ 
+  external intercostal muscle
+
+ 
+//------------------------------------
+
+  optimizovani:
+
+ 
+internal intercostal muscle
+internal intercostal muscle left
+external intercostal muscle left
+innermost intercostal muscle left
+innermost intercostal muscle
+
+ 
